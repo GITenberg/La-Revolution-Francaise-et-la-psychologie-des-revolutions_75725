@@ -1,0 +1,40 @@
+_repo: La-Revolution-Francaise-et-la-psychologie-des-revolutions_75725
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Le Bon, Gustave
+    aliases:
+    - Bon, Gustave Le
+    - Bon, Gustave le
+    birthdate: 1841
+    deathdate: 1931
+    gutenberg_agent_id: '239'
+    url: http://www.gutenberg.org/2009/agents/239
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Gustave_Le_Bon
+    - https://fr.wikipedia.org/wiki/Gustave_Le_Bon
+description: ''
+gutenberg_issued: '2025-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75725'
+  lccn: '12016574'
+language: fr
+pgterms:marc904: https://archive.org/details/larvolutionfra00lebo
+pgterms:marc905: 20250319192132lebon
+pgterms:marc906: '1912'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by The Internet Archive/Canadian Libraries.)
+publication_note: '  $aParis :$bErnest Flammarion, $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Revolutions'
+- !lcsh 'Social psychology'
+- !lcsh 'France -- History -- Revolution, 1789-1799 -- Causes'
+- !lcc 'DC'
+- GITenberg
+title: La Révolution Française et la psychologie des révolutions
+url: http://www.gutenberg.org/ebooks/75725
